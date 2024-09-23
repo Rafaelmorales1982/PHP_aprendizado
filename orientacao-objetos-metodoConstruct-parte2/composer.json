@@ -1,0 +1,15 @@
+{
+    "name": "rafael/meu-site",
+    "autoload": {
+        "psr-4": {
+            "Rafael\\MeuSite\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rafael",
+            "email": "rafaelmorsony@gmail.com"
+        }
+    ],
+    "require": {}
+}
